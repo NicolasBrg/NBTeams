@@ -1,4 +1,4 @@
-# NBTeams Pure Forge 1.12.2
+# NBTeams Pure Forge 1.12.2 - Version PureForge_1.21.6.a
 An default configuration is automaticaly generated and is fully operational. You will be able to customize it to your servers needs, even the smallest details are configurable, you can for example modify more than 250 messages! **No dependency required**<br>
 A brief summary of some of the features:
 - Autonomous management of teams by the players
