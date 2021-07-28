@@ -1,4 +1,4 @@
-# NBTeams Pure Forge 1.12.2 - Version PureForge_1.21.6.a
+# NBTeams Pure Forge 1.12.2 - Version PureForge_1.21.6.b
 An default configuration is automaticaly generated and is fully operational. You will be able to customize it to your servers needs, even the smallest details are configurable, you can for example modify more than 250 messages! **No dependency required**<br>
 A brief summary of some of the features:
 - Autonomous management of teams by the players
@@ -137,6 +137,6 @@ Several APIs are available, contact me for more information, a dedicated section
 
 # Licensed server
 *Have you found a server that uses NBTeams without permission? Contact me quickly.*<br><br>
-**Forge version**: PixelmonInfinity<br>
-**Sponge version**: Frontier Pixelmon, Miner.GG, PokeHills, PixelmonCraft<br>
+**Forge version**: PixelmonInfinity, PokeHills<br>
+**Sponge version**: Frontier Pixelmon, Miner.GG, PixelmonCraft<br>
 **Deprecated version**: Livadia<br>
