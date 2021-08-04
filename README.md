@@ -137,6 +137,6 @@ Several APIs are available, contact me for more information, a dedicated section
 
 # Licensed server
 *Have you found a server that uses NBTeams without permission? Contact me quickly.*<br><br>
-**Forge version**: PixelmonInfinity, PokeHills, PokeClash, Miner.GG<br>
+**Forge version**: PixelmonInfinity, PokeHills, PokeClash, Miner.GG, **PocketPixels**<br>
 **Sponge version**: Frontier Pixelmon, PixelmonCraft<br>
 **Deprecated version**: Livadia<br>
