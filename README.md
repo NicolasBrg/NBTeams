@@ -1,4 +1,4 @@
-# NBTeams Pure Forge 1.12.2 - Version PureForge_1.21.6.b
+# NBTeams Pure Forge 1.12.2 - Version 2022.07.a
 An default configuration is automaticaly generated and is fully operational. You will be able to customize it to your servers needs, even the smallest details are configurable, you can for example modify more than 250 messages! **No dependency required**<br>
 A brief summary of some of the features:
 - Autonomous management of teams by the players
@@ -17,13 +17,8 @@ You can use Tab auto-completion for all plugin commands. The alias for NBTeams i
 ## Installation
 Add the file "NBTeams.jar" in the mod folder of your server. Then start it. You will then just have to activate your license.
 
-### Licence
-You need to execute commands:<br>
-```/nbt Licence ServerName <ServerName>```<br>
-```/nbt Licence ServerKey <ServerKey>```<br>
-```/nbt Licence Connect```<br>
-```/nbt Licence IP```<br>
-Then send the result of last command to the developper, and it's finished, you can enjoy NBTeams.
+### License
+NBAuth security is used, easy, fast and powerful protection and backup internal services.
 
 ### Permissions & Usages
 There are two types of permissions, the individual ones, specific to each command, or the groups which directly contain pre-made configurations to save you time.
@@ -132,11 +127,5 @@ The command interpreter breaks down the command sent, if it starts with a "/" it
 ### NPC interaction
 In the general configuration file you have a category "NPC_Commands", you can add the name of an NPC **(Pixelmon is required)**, e.g. when the player right-clicks on an NPC named "QUEST_NPC", the quest menu will be displayed for the player.
 
-### Are you developper ?
-Several APIs are available, contact me for more information, a dedicated section will be created in the wiki. 
-
 # Licensed server
 *Have you found a server that uses NBTeams without permission? Contact me quickly.*<br><br>
-**Forge version**: PixelmonInfinity, PokeHills, PokeClash, Miner.GG, **PocketPixels**, **PokeLand**<br>
-**Sponge version**: Frontier Pixelmon, PixelmonCraft<br>
-**Deprecated version**: Livadia<br>
